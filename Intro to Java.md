@@ -26,6 +26,7 @@ public class HelloWorld{
 #### Libraries
 - C: Uses the <include> before the int main to specify the possible different attached operators that can be used within the rest of the program.
 -  The library is implicit and does not need to be specified within the program
-#### Entry Point
 
+#### Entry Point
+- 
 

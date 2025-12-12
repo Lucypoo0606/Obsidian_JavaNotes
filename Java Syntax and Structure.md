@@ -1,3 +1,5 @@
-#### Declaring a class
+## Declaring a class
+
+
 - Java begins with the creating of a class
-	- Classes are similar to the declaration of int main()
+	- All java Programs must contain at least a single class delceration within the code

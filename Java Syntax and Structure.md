@@ -3,5 +3,8 @@
 	- All java Programs must contain at least a single class declaration within the code
 #### Basics of Declaration
 - **Syntax**: Declaration starts with the class keyword, followed by the class name
-	- Will be using the declaration of public class, spelled fully in lowercase
-- 
+- **Keywords**: Will be using the declaration of public class
+	- Always spelled in lowercase and cannot be used as names for variables or classes
+```java
+public class class_name
+```

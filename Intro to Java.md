@@ -24,7 +24,7 @@ public class HelloWorld{
 - Java: Based on classes. Everything is a class, with all code being wrapped inside of a class definition
 
 #### Libraries
-- C: Uses the <include> before the int main to specify the possible different attached operators that can be used within the rest of the program.
+- C: You must explicitly include the Standard Input/Output library to print to the screen.
+- Java: The basic libraries (including `System`) are automatically available; no import is needed for simple output.
 
-
-
+#### Printing

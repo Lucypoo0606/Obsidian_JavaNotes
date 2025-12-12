@@ -12,4 +12,6 @@ public class class_name
 ### Class Name
  - The class name is a specific type of identifier
 #### Must follow Rules
+- Allowed 
+
  

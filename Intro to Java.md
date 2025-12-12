@@ -27,4 +27,5 @@ public class HelloWorld{
 - C: You must explicitly include the Standard Input/Output library to print to the screen.
 - Java: The basic libraries (including `System`) are automatically available; no import is needed for simple output.
 
-[[Printing]]
+#### Printing
+- C: Uses the "printf" function. Manually adds \n for a new line every

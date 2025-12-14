@@ -30,6 +30,3 @@ public class SampleClassName{
 \\Code will be written within the opening and closing parenthesis
 }
 ```
-
-
- 
